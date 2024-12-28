@@ -1,6 +1,8 @@
 # About Me
-## Hi, My name is Hyunah Jung.<br> 
+<h3>
+Hi, My name is Hyunah Jung.<br> 
 _(pronounced hyuhn-ah jung)_.
+</h3>
 
 I am a _software engineer_ specializing in developing generative AI solutions,<br>
 leveraging cloud compute platforms, and designing APIs to deliver scalable and innovative applications.
