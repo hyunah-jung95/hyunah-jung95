@@ -15,7 +15,12 @@ My vision is to solve challenging problems with agility, organized strategies, a
 creating impactful innovations to the world.
 
 # Contact Point
-
+<a href="https://www.linkedin.com/in/hyunah-jung95/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</a>
 
 
 <!--
