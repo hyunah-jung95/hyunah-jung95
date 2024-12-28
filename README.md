@@ -1,5 +1,5 @@
 # About Me
-My name is Hyunah Jung.<br> 
+## Hi, My name is Hyunah Jung.<br> 
 _(pronounced hyuhn-ah jung)_.
 
 I am a _software engineer_ specializing in developing generative AI solutions,<br>
