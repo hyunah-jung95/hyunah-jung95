@@ -1,4 +1,4 @@
-## About Me
+# About Me
 My name is Hyunah Jung.<br> 
 _(pronounced hyuhn-ah jung)_.
 
@@ -13,6 +13,8 @@ I have expertise in leading teams, organizing tasks, and coordinating with peers
 
 My vision is to solve challenging problems with agility, organized strategies, and technical expertise,<br>
 creating impactful innovations to the world.
+
+# Contact Point
 
 
 
