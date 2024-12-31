@@ -13,14 +13,19 @@ I have expertise in leading teams, organizing tasks, and coordinating with peers
 My vision is to solve challenging problems with agility, organized strategies, and technical expertise,<br>
 creating impactful innovations to the world.
 
+# Reach me on
 <a href="https://www.linkedin.com/in/hyunah-jung95/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
-[My Resume](https://github.com/user-attachments/files/18278593/CV_Hyunah_Jung.pdf)
+<a href="https://github.com/user-attachments/files/18278634/CV_Hyunah_Jung.pdf">
+  <img
+    alt="Resume"
+    src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+    />
+</a>
 
 
 # Projects
