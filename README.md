@@ -20,6 +20,9 @@ creating impactful innovations to the world.
   />
 </a>
 
+[CV_Hyunah_Jung.pdf](https://github.com/user-attachments/files/18278593/CV_Hyunah_Jung.pdf)
+
+
 # Projects
 - [Contract RAG Chatbot](https://github.com/hyunah-jung95/contract-RAG-chatbot) - AI chatbot that provides precise answers with 97% accurancy, grounded in a contracts DB.
 - [Patent Application Generator](https://github.com/hyunah-jung95/patent-application-generator) - Generates patent application forms automatically, extracting data from uploaded documents.
