@@ -20,7 +20,7 @@ creating impactful innovations to the world.
   />
 </a>
 
-[> My Resume](https://github.com/user-attachments/files/18278650/CV_Hyunah_Jung.pdf)
+[Resume](https://github.com/user-attachments/files/18527447/CV_Hyunah_Jung.pdf)
 
 
 # Projects
