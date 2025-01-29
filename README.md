@@ -24,11 +24,13 @@ creating impactful innovations to the world.
 
 
 # Projects
+### Professional Projects
 - [Contract RAG Chatbot](https://github.com/hyunah-jung95/contract-RAG-chatbot) - AI chatbot that provides precise answers with 97% accurancy, grounded in a contracts DB.
-- [Boost Self-Studying](https://github.com/hyunah-jung95/Boost-self-studying) - Simplifies your studying by providing explanations based on uploaded documents and Wikipedia.
 - [Patent Application Generator](https://github.com/hyunah-jung95/patent-application-generator) - Generates patent application forms automatically, extracting data from uploaded documents.
 - [Chart Data Extractor](https://github.com/hyunah-jung95/chart-data-extractor) - Extracts organized and structured data from uploaded chart images.  
 - [Contract Redactor](https://github.com/hyunah-jung95/contract-redactor) - Redact sensitive words from contract documents.
+### Personal Projects
+- [Boost Self-Studying](https://github.com/hyunah-jung95/Boost-self-studying) - Simplifies your studying by providing explanations based on uploaded documents and Wikipedia.
 
 # Work Experience
 - [Jigo.ai](https://jigo.ai) - Developed Contract Management System(CLM) as a Software Engineer. _(May 2024 ~ Present)_
