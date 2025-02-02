@@ -28,6 +28,7 @@ creating impactful innovations to the world.
 - [Contract RAG Chatbot](https://github.com/hyunah-jung95/contract-RAG-chatbot) - AI chatbot that provides precise answers with 97% accurancy, grounded in a contracts DB.
 - [Patent Application Generator](https://github.com/hyunah-jung95/patent-application-generator) - Generates patent application forms automatically, extracting data from uploaded documents.
 - [Contract Metadata Extractor(Basic)](https://github.com/hyunah-jung95/contract-metadata-extractor) - Extract metadata from contracts automatically using Azure Document AI.
+- [Contract Metadata Extractor(CRE)](https://github.com/hyunah-jung95/contract-metadata-extractor-CRE/blob/main/README.md) - Extract metadata customized for CRE(Commercial Real Estate) contracts using gpt-4o.
 - [Chart Data Extractor](https://github.com/hyunah-jung95/chart-data-extractor) - Extracts organized and structured data from uploaded chart images.  
 - [Contract Redactor](https://github.com/hyunah-jung95/contract-redactor) - Redact sensitive words from contract documents.
 ### Personal Projects
