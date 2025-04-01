@@ -39,6 +39,7 @@ creating impactful innovations to the world.
 - [Korean Government](https://www.mpm.go.kr/english/) - Managed recruitment systems for public officers as a team leader. _(May 2018 ~ Apr 2024)_
 
 # Education
+- Master's Degree - Computer Science | Georgia Tech OMSCS (2025 Fall Incoming)
 - Bachelor's Degree - Software Engineering | Hanyang Cyber University _(2024 ~ Present)_
 - Bachelor's Degree - Public Administration | Korea University _(2014 ~ 2020)_
 
